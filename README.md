@@ -1,2 +1,4 @@
-# dans-bagit-profile
+DANS BagIt Profile
+==================
+
 DANS BagIt Profile specification
