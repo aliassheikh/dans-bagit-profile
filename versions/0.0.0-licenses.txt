@@ -24,4 +24,4 @@ http://www.ohwr.org/projects/cernohl/wiki
 http://www.tapr.org/TAPR_Open_Hardware_License_v1.0.txt
 http://www.tapr.org/ohl.html (alias for http://www.tapr.org/TAPR_Open_Hardware_License_v1.0.txt, *deprecated*)
 http://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSGeneralconditionsofuseUKDEF.pdf (*deprecated*)
-http://dans.knaw.nl/en/about/organisation-and-policy/legal-information/dans-licence.pdf
+http://dans.knaw.nl/en/about/organisation-and-policy/legal-information/DANSLicence.pdf
