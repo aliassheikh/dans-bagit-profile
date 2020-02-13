@@ -1,5 +1,6 @@
 DANS BagIt Profile
 ==================
+[![Build Status](https://travis-ci.org/DANS-KNAW/easy-deposit-api.png?branch=master)](https://travis-ci.org/DANS-KNAW/dans-bagit-profile)
 
 Welcome
 -------
