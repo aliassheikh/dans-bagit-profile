@@ -1,4 +1,11 @@
 matrix:
   include:
-      script:
-        - "./.travis.sh"
+    - language: python
+      if: branch = master AND NOT type = pull_request
+      python: 3.7.1
+      cache:
+        directories:
+          - "$HOME/.cache"
+          - "$HOME/virtualenv"
+    script:
+      - "./.travis.sh"
