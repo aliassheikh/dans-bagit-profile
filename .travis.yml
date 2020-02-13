@@ -1,0 +1,4 @@
+matrix:
+  include:
+      script:
+        - "./.travis.sh"
