@@ -24,6 +24,7 @@ repo_url: https://github.com/DANS-KNAW/dans-bagit-profile
 
 nav:
   - Manual: index.md
+  - Profile: versions/0.0.0.md
 
 plugins:
   - markdownextradata
