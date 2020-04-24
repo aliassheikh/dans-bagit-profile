@@ -7,5 +7,5 @@ matrix:
         directories:
           - "$HOME/.cache"
           - "$HOME/virtualenv"
-    script:
+      script:
       - "./.travis.sh"
