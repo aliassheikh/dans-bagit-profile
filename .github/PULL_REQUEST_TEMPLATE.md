@@ -1,15 +1,14 @@
-fixes EASY-
+Fixes EASY-
 
-#### When applied it will
-* 
-* 
-* 
+# Description of changes
 
-#### Where should the reviewer @DANS-KNAW/easy start?
 
-#### How should this be manually tested?
+# How to test
 
-#### related pull requests on github
-repo                       | PR
--------------------------- | -----------------
-easy-                      | [PR#](PRlink) 
+
+# Related PRs
+(Add links)
+*
+
+# Notify
+@DANS-KNAW/easy
