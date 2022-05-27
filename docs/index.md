@@ -1,5 +1,5 @@
-DANS BagIt Profile
-==================
+Welcome
+=======
 
 This site documents contains the *DANS BagIt Profile* specifications. This is a document that specifies the requirements
 for a valid DANS bag. There are several versions of the document:

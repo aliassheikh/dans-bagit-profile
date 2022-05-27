@@ -23,7 +23,7 @@ repo_name: DANS-KNAW/dans-bagit-profile
 repo_url: https://github.com/DANS-KNAW/dans-bagit-profile
 
 nav:
-  - DANS BagIt Profile: index.md
+  - Welcome: index.md
   - Versions:
     - v0.0.0: versions/0.0.0.md
     - v1.0.0-DRAFT: versions/1.0.0.md
