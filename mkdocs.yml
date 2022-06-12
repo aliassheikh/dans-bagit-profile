@@ -16,8 +16,8 @@
 
 site_name: dans-bagit-profile
 theme:
-  name: dans
-  disclaimer: false
+  name: readthedocs
+#  disclaimer: false
 
 repo_name: DANS-KNAW/dans-bagit-profile
 repo_url: https://github.com/DANS-KNAW/dans-bagit-profile
