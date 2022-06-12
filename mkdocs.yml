@@ -17,7 +17,6 @@
 site_name: dans-bagit-profile
 theme:
   name: readthedocs
-#  disclaimer: false
 
 repo_name: DANS-KNAW/dans-bagit-profile
 repo_url: https://github.com/DANS-KNAW/dans-bagit-profile
@@ -34,7 +33,6 @@ plugins:
 
 markdown_extensions:
   - attr_list
-  #- legacy_attr
   - admonition
   - codehilite:
       guess_lang: false
@@ -56,7 +54,6 @@ markdown_extensions:
       user: Dans-labs
       repo: mkdocs-dans
   - pymdownx.mark
-  #- pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
