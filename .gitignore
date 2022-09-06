@@ -1,4 +1,5 @@
 /.idea
 /*.iml
 /venv
+/.venv-mkdocs
 .DS_Store
