@@ -26,6 +26,7 @@ nav:
   - Versions:
     - v0.0.0: versions/0.0.0.md
     - v1.0.0-DRAFT: versions/1.0.0.md
+    - v1.0.0-Migration-supplement: versions/1.0.0-migration-supplement.md
 
 plugins:
   - markdownextradata
@@ -41,20 +42,3 @@ markdown_extensions:
   - meta
   - toc:
       permalink: true
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: Dans-labs
-      repo: mkdocs-dans
-  - pymdownx.mark
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
