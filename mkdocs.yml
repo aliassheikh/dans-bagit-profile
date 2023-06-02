@@ -27,6 +27,7 @@ nav:
     - v0.0.0: versions/0.0.0.md
     - v1.0.0-DRAFT: versions/1.0.0.md
     - v1.0.0-Migration-supplement: versions/1.0.0-migration-supplement.md
+  - ⇒ DANS Data Station Architecture: arch.md
 
 plugins:
   - markdownextradata
