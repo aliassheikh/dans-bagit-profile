@@ -11,4 +11,4 @@ Fixes EASY-
 *
 
 # Notify
-@DANS-KNAW/easy
+@DANS-KNAW/core-systems
