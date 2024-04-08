@@ -23,11 +23,14 @@ repo_url: https://github.com/DANS-KNAW/dans-bagit-profile
 
 nav:
   - Welcome: index.md
-  - Versions:
+  - Current versions:
     - v0.0.0-DEPRECATED: versions/0.0.0.md
-    - v1.0.0: versions/1.0.0.md
+    - v1.1.0: versions/1.1.0.md
     - v1.0.0-Migration-supplement: versions/1.0.0-migration-supplement.md
-  - ⇒ DANS Data Station Architecture: arch.md
+  - Archived versions:
+    - v1.0.0: versions/archived/1.0.0.md
+  - Context:
+    - ⇒ DANS Data Station Architecture: arch.md
 
 plugins:
   - markdownextradata
