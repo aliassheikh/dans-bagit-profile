@@ -32,7 +32,7 @@ nav:
     - v1.0.0: versions/archived/1.0.0.md
     - v1.0.0-Migration-supplement: versions/archived/1.0.0-migration-supplement.md
   - Context:
-    - ⇒ DANS Data Station Architecture: arch.md
+    - About: context.md
 
 plugins:
   - markdownextradata

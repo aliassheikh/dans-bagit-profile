@@ -10,6 +10,7 @@ for a valid DANS bag. There are several versions of the document:
 Archived versions:
 
 * [v1.0.0](versions/archived/1.0.0.md)
+* [v1.0.0-migration-supplement](versions/archived/1.0.0-migration-supplement.md)
 * [v1.1.0](versions/archived/1.1.0.md)
 * [v1.2.0](versions/archived/1.2.0.md)
 
